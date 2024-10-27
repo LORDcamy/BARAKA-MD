@@ -7,7 +7,7 @@
   "repository": "",
   "stack":"heroku-24",
   "env":{
-      "SESSION_ID": {
+      "SESSION_ID": {Bmwmd$NPHmE6qA
       "description": "Paste here session id that you have scanned",
       "required": true,
       "value": ""
@@ -15,7 +15,7 @@
     "MODE": {
       "description": "Enter true for public. false for private",
       "required": true,
-      "value": "public"
+      "value": "false"
     },
     "AUTO_STATUS_SEEN": {
       "description": "Enter true for autoview status. false for no",
